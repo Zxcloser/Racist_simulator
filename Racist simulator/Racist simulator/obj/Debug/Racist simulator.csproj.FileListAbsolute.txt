@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\Тарарака\Racist simulator\Racist simulator\bin\Debug\Racist simulator.exe.config
+C:\Users\student\Desktop\Тарарака\Racist simulator\Racist simulator\bin\Debug\Racist simulator.exe
+C:\Users\student\Desktop\Тарарака\Racist simulator\Racist simulator\bin\Debug\Racist simulator.pdb
+C:\Users\student\Desktop\Тарарака\Racist simulator\Racist simulator\obj\Debug\Racist simulator.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Тарарака\Racist simulator\Racist simulator\obj\Debug\Racist simulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Тарарака\Racist simulator\Racist simulator\obj\Debug\Racist_simulator.Form1.resources
+C:\Users\student\Desktop\Тарарака\Racist simulator\Racist simulator\obj\Debug\Racist_simulator.Properties.Resources.resources
+C:\Users\student\Desktop\Тарарака\Racist simulator\Racist simulator\obj\Debug\Racist simulator.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Тарарака\Racist simulator\Racist simulator\obj\Debug\Racist simulator.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Тарарака\Racist simulator\Racist simulator\obj\Debug\Racist simulator.exe
+C:\Users\student\Desktop\Тарарака\Racist simulator\Racist simulator\obj\Debug\Racist simulator.pdb
